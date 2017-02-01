@@ -1,2 +1,4 @@
 # helloworld
-my trial in git
+ my edit to readme file
+ echo "Hai all"
+ 
